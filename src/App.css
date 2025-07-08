@@ -1,0 +1,6 @@
+.flexCenterGap {
+  display: flex;
+  align-items: center;
+  gap: 8px;         /* 1 spacing unit in MUI = 8px */
+  margin-bottom: 16px; /* mb: 2 → 2 × 8px = 16px */
+}
