@@ -14,7 +14,7 @@ A simple Contact Management System built using **React**, **Material UI**,**Reac
 
 ## 📦 Installation<br>
 1. **Clone the repository**<br>
-git clone https://github.com/techsachin95/ContactApp.git
+git clone https://github.com/techsachin95/contact-app.git
 
 2. **Move to the Root project Directory**<br>
 cd ContactApp
